@@ -1427,3 +1427,7 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+  .white-text{
+    color: white !important;
+  }
